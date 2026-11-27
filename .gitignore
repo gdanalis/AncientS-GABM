@@ -1,0 +1,9 @@
+NetLogo-6.4.0-64/
+LLM_CACHE/
+Figures/
+Logs/
+offload/
+*.log
+.venv/
+__pycache__/
+*.py[cod]

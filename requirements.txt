@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+bitsandbytes
+pynetlogo
+requests
+matplotlib
+seaborn
+pandas
+networkx
+numpy

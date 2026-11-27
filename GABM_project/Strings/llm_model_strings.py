@@ -1,0 +1,1 @@
+MODEL_QWEN25_32B = "Qwen/Qwen2.5-32B-Instruct"
